@@ -1,49 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18d6eeb4-0b2d-4013-b980-54ce9677073c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/dictionaries/tch.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_spring_beans_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_spring_core_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_spring_web_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/springboothello.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/src/main/java/com/tom/Application.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/src/main/java/com/tom/HelloWord.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springboothello/src/main/resources/application.properties" />
+    <list default="true" id="18d6eeb4-0b2d-4013-b980-54ce9677073c" name="Default" comment="Commit Message">
+      <change beforePath="$PROJECT_DIR$/../springboothello/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../springboothello/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -374,6 +333,14 @@
       <option name="presentableId" value="Default" />
       <updated>1527951892124</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit Message">
+      <created>1527964397604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527964397604</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -397,7 +364,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5637255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -418,6 +385,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Message" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
